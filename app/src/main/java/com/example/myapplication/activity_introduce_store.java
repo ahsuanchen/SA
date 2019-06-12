@@ -14,7 +14,6 @@ import retrofit2.Response;
 
 public class activity_introduce_store extends  AppCompatActivity {
     private ImageButton b1;
-    Restaurant restaurant;
     private String choose = "資管巧克力";
     private test1 MyAPIService;
     private TextView res_name;

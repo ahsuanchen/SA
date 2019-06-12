@@ -2,7 +2,7 @@ package com.example.myapplication;
 
 public class fields {
     //--------------------------------------Restaurant-------------------------------------------
-    private int[] res_id;
+    private int res_id;
     private String res_name;
     private String res_address;
     private String res_phone;
